@@ -1,0 +1,3 @@
+pkg-resources==0.0.0
+pypandoc==1.4
+-e git+https://github.com/loganrudd/Data-Science.git@151914b2ecb830fe118af1a6f35c1f490670697a#egg=src&subdirectory=capstone projects/sentiment-analysis
