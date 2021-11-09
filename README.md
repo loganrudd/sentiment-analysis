@@ -40,20 +40,4 @@ recreate the analysis environment to run jupyter notebooks run:
 
 `conda create -n <name_of_env> -f analysis_env.yml`
 
-or if you only want to run and test the API:
-
-`conda create -n <name_of_env> -f api_env.yml`
-
-## Code Example
-
-From the root of the project run the app with `uvicorn main:app` and 
-then in another terminal run the test_request.py to send test data to the API 
-and return a prediction:
-
-`python test_request.py`
-
-## API Reference
-
-https://fastapi.tiangolo.com/
-
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
