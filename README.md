@@ -34,7 +34,7 @@ Project Organization
 
 ## Installation
 
-Creat a [Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) 
+Create a [Conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) 
 environment from respective env.yml file. For example, to
 recreate the analysis environment to run jupyter notebooks run:
 
